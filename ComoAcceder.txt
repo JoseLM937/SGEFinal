@@ -1,0 +1,10 @@
+Al docker hub:
+Contenedor odooprod: docker push joselm937/marbella_odooprod:tagname
+https://hub.docker.com/repository/docker/joselm937/marbella_odooprod/general
+
+
+Contenedor db: docker push joselm937/marbelladb:tagname 
+https://hub.docker.com/repository/docker/joselm937/marbelladb/general
+
+Al github con los ficheros:
+
